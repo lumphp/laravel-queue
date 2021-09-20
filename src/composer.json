@@ -1,11 +1,11 @@
 {
-    "name": "lumphp/laravel-queue",
+    "name": "illuminate/queue",
     "description": "The Illuminate Queue package.",
     "license": "MIT",
     "homepage": "https://laravel.com",
     "support": {
-        "issues": "https://github.com/lumphp/laravel-queue/issues",
-        "source": "https://github.com/lumphp/laravel-queue"
+        "issues": "https://github.com/laravel/framework/issues",
+        "source": "https://github.com/laravel/framework"
     },
     "authors": [
         {
@@ -16,14 +16,14 @@
     "require": {
         "php": "^7.3|^8.0",
         "ext-json": "*",
-        "lumphp/laravel-collections": "^8.0",
-        "lumphp/laravel-console": "^8.0",
-        "lumphp/laravel-container": "^8.0",
-        "lumphp/laravel-contracts": "^8.0",
-        "lumphp/laravel-database": "^8.0",
-        "lumphp/laravel-filesystem": "^8.0",
-        "lumphp/laravel-pipeline": "^8.0",
-        "lumphp/laravel-support": "^8.0",
+        "illuminate/collections": "^8.0",
+        "illuminate/console": "^8.0",
+        "illuminate/container": "^8.0",
+        "illuminate/contracts": "^8.0",
+        "illuminate/database": "^8.0",
+        "illuminate/filesystem": "^8.0",
+        "illuminate/pipeline": "^8.0",
+        "illuminate/support": "^8.0",
         "opis/closure": "^3.6",
         "ramsey/uuid": "^4.0",
         "symfony/process": "^5.1.4"
